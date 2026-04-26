@@ -1,6 +1,6 @@
 const bot = mineflayer.createBot({
-  host: 'mc.minepeak.org', // Use the actual IP here
-  username: 'CL247AFK',    // Your bot's name
-  version: '1.20.1',       // <--- ADD THIS (Match the server version)
-  auth: 'offline'          // <--- MAKE SURE THIS IS HERE
+  host: 'mc.minepeak.org',
+  username: 'CL247AFK',
+  version: '1.20.1',
+  auth: 'offline'
 });
